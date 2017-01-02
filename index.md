@@ -1,3 +1,7 @@
+---
+layout: default
+title: Report on the Kolar Gold Field and its southern extension
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
